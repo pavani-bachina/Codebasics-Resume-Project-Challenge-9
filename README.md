@@ -7,9 +7,9 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 3.	MySQL: Answered ad-hoc requests.
 
 ## Key Findings:
-•	Diwali Campaign generates the highest revenue, while Sankranti Campaign sees the highest quantity of products sold.
-•	Products with the "500 Cashback" promo type generate the highest revenue, while the "BOGOF" promo type results in the highest quantity of products sold.
-•	Madurai Stores exhibit the highest Incremental Revenue Percentage (IR%) and Incremental Sold Units Percentage (ISU%).
-•	Stores in Bangalore, Chennai, and Hyderabad demonstrate strong performance after promotions.
-•	The Combo 1 category generates the highest revenue, while Home Appliances products are sold in higher quantities.
-•	During Sankranti promotions, grocery and staples products sell the highest quantities.
+1. Diwali Campaign generates the highest revenue, while Sankranti Campaign sees the highest quantity of products sold.
+2. Products with the "500 Cashback" promo type generate the highest revenue, while the "BOGOF" promo type results in the highest quantity of products sold.
+3. Madurai Stores exhibit the highest Incremental Revenue Percentage (IR%) and Incremental Sold Units Percentage (ISU%).
+4. Stores in Bangalore, Chennai, and Hyderabad demonstrate strong performance after promotions.
+5. The Combo 1 category generates the highest revenue, while Home Appliances products are sold in higher quantities.
+6. During Sankranti promotions, grocery and staples products sell the highest quantities.
